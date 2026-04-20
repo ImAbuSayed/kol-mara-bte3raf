@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي والهوى كالسيل
+> روحي تذوب في هواك وتميل
+> أنت الغرام وأنت كل الدليل
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
