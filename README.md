@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-mara-bte3raf/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Kol Mara Bte3raf](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
