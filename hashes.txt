@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Mara Bte3raf
+
+This log tracks the cryptographic history and versioning for the song **Kol Mara Bte3raf** (kol-mara-bte3raf).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T16:41:44.973411 | `v1` | `4da32ba1572c1f755084f7efdcdf7050e83ffea3ee3f923a26c74c9dddd7c8e4` | `051c1af1ef6d19eb3bb0925ee0a3a99918dd0a53c08cfdf5d511fb0cb45442e4` | `2026-05-09_kol-mara-bte3raf-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
